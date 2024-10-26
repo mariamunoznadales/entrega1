@@ -29,16 +29,3 @@ Si la cancelación es exitosa, verás el mensaje: "Habitación 101 cancelada con
 - Para ver un gráfico de ocupación del hotel, selecciona la opción 5. El programa abrirá un gráfico circular que representa la ocupación actual del hotel, mostrando el porcentaje de habitaciones ocupadas y las disponibles.
 
 - Finalmente, si deseas salir del programa, selecciona la opción 6 para cerrar el sistema de reservas.
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT puede cometer errores. Considera verificar la información importante.
